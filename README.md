@@ -1,4 +1,4 @@
-## Hello World! Meu nome é Filipe Queiroz.
+## Hello World!
 <div>
   <a href="https://github.FilipeAraujoQ">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=FilipeAraujoQ&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
